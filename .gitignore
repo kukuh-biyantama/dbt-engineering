@@ -1,0 +1,22 @@
+# Virtual environment
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# dbt
+target/
+dbt_packages/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files (Office)
+~$*.pptx
+~$*.xlsx
